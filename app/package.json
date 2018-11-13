@@ -1,0 +1,24 @@
+{
+  "name": "cianBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "node-telegram-bot-api": "^0.30.0",
+    "npm": "^5.10.0",
+    "request": "^2.88.0",
+    "socks5-https-client": "^1.2.1",
+    "telegraf": "^3.25.0",
+    "uuid": "^3.3.2",
+    "winston": "^2.4.4"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1"
+  }
+}

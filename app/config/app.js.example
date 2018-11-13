@@ -1,0 +1,25 @@
+'use strict';
+
+module.exports = {
+    folders: {
+        log: 'log'
+    },
+    database: {
+       file: 'data/db.json'
+    },
+    telegram: {
+        token: '',
+        chatId: '-265297235',
+        socks5Proxy: {
+            socksHost: '',
+            socksPort: ''',
+            socksUsername: '',
+            socksPassword: ''
+        }
+    },
+    cian: {
+        pollingIntervalSec: 30,
+        searchQuery: null
+    },
+    version: '0.1.0'
+};
